@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# terminal-snip README
+>>>>>>> f44f62498e78aef7919f462611246b6a5da8c237
 # SnipBoard
 
 A Visual Studio Code extension that automatically tracks clipboard history and provides quick access to reusable snippets through a dedicated sidebar.
@@ -46,3 +50,8 @@ SnipBoard is useful for storing and reusing:
 * ESBuild
 
 
+<<<<<<< HEAD
+=======
+
+**Enjoy!**
+>>>>>>> f44f62498e78aef7919f462611246b6a5da8c237

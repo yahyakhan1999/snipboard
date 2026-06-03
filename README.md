@@ -1,4 +1,4 @@
-    # SnipBoard
+## SnipBoard
 
 A Visual Studio Code extension that automatically tracks clipboard history and provides quick access to reusable snippets through a dedicated sidebar.
 
